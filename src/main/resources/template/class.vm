@@ -1,0 +1,9 @@
+#[[####]]# Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `${package}`
+ - Then - in that package, create a class named `${SecondClass}`, with a an empty body - no methods
+ - Then - in the body of that class named `${SecondClass}` create a `${secondMethod}` method that returns void and takes a String for an arg, and name that incoming argument `${argument}`
+ - In the body of that method named `${secondMethod}`, write `System.out.println("Hello again there " + ${argument});`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `${SecondClass}` class assigned to that variable, and use the variable representing that class to call the `${secondMethod}` method that you just wrote, passing in "${someValue}" as the argument.
+ - Then run the program and confirm that it writes `Hello again there ${someValue}` into the console
+

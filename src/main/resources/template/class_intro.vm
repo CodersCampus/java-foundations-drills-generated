@@ -1,0 +1,30 @@
+# Projects for Instantiating a Class, a Method, and Calling the Method
+
+WTH? Why do I even care about classes, methods, and how to create and consume them?
+
+These are actually vital questions to ask yourself. You should eventually know why you are constantly reorganizing your code, and even reorganizing code that other people wrote, and that you are just maintaining.
+
+These drills don't try to explain why, but assume you have some idea why you might want to re-organize some code into new classes, new methods.
+
+#[[##]]# Pre Reqs:
+- You have already done [these drills](PROJECT.md) and so you can create a project easily without thinking about it.
+- You have accepted the idea that you might need to reorganize code sometimes, even if you aren't always sure when and why.
+
+#[[##]]# Moving a block of code to another class and/or method.
+
+These instructions assume you want to practice moving something in one block of code into another block of code in another class, just for that purpose.
+
+#[[##]]# How many of these should I do?
+
+These are auto-generated, so we generated more than you would need. Just keep doing it until your muscle memory is formed.
+If you are not sure, come back later and do some more, to see if your muscle memory is holding solid.
+
+Until then, you know what to do.
+
+#[[##]]# Always Delete These Practice Projects!
+
+Don't worry, you won't miss them. Keeping your workspace clean and uncluttered will help you maintain self confidence.
+
+You got this. It's all in your muscle memory.
+
+

@@ -1,0 +1,7 @@
+
+#[[##]]# Make new project named `${ClassName}Project`
+ - Then make a new package `com.coderscampus.${name}.main`
+ - Then - in that package, create a class named `${ClassName}${AppSuffix}`, with a static main method
+ - Then - in the body of the main method in the class named `${ClassName}${AppSuffix}` write `System.out.println("Hello ${otherName}");`
+ - Then run the program and confirm that it writes `Hello ${otherName}` into the console
+
