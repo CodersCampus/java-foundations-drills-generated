@@ -1,22 +1,23 @@
 package com.coderscampus.jfdg.clasz;
 
-import com.coderscampus.generator.domain.GenMeta;
-import com.coderscampus.generator.trial.GenBase;
-
 import java.io.StringWriter;
+import java.util.List;
+
+import com.coderscampus.generator.domain.GenMeta;
+import com.coderscampus.generator.service.GenBase;
 
 public class ClaszIntroGen extends GenBase {
 
-    public ClaszIntroGen(GenMeta genMeta) {
-        super(genMeta);
+    public ClaszIntroGen(List<GenMeta> genMetaList, int defaultPosition) {
+        super(genMetaList, defaultPosition);
     }
 
     @Override
     public StringWriter generate(StringWriter stringWriter) {
         this.context.put("name", new String("Velocity"));
         this.context.put("city", loremIpsum.getCity());
-        this.context.put("ClassName", this.genMeta.getName());
-        this.context.put("package", this.genMeta.getPakage());
+        this.context.put("ClassName", this.genMetaList.get(defaultPosition).getName());
+        this.context.put("package", this.genMetaList.get(defaultPosition).getPakage());
         merge(null);
         write();
         return writer;

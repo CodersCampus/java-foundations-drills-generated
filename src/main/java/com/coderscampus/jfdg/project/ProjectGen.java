@@ -1,17 +1,18 @@
 package com.coderscampus.jfdg.project;
 
 import java.io.StringWriter;
+import java.util.List;
 
 import com.coderscampus.generator.domain.GenMeta;
-import com.coderscampus.generator.trial.GenBase;
+import com.coderscampus.generator.service.GenBase;
 import com.coderscampus.generator.util.Names;
 import com.coderscampus.generator.util.Rndm;
 import com.coderscampus.generator.util.StringUtils_;
 
 public class ProjectGen extends GenBase {
 
-    public ProjectGen(GenMeta genMeta) {
-        super(genMeta);
+    public ProjectGen(List<GenMeta> genMetaList, int defaultPosition) {
+        super(genMetaList, defaultPosition);
     }
 
     @Override
@@ -19,9 +20,9 @@ public class ProjectGen extends GenBase {
         String appSuffix = StringUtils_.upLow(Rndm.nameMainClass());
         this.context.put("otherName", Names.randomName().toLowerCase());
         this.context.put("AppSuffix", appSuffix);
-        this.context.put("ClassName", this.genMeta.getName());
-        this.context.put("name", this.genMeta.getName().toLowerCase());
-        this.context.put("package", this.genMeta.getPakage());
+        this.context.put("ClassName", this.genMetaList.get(defaultPosition).getName());
+        this.context.put("name", this.genMetaList.get(defaultPosition).getName().toLowerCase());
+        this.context.put("package", this.genMetaList.get(defaultPosition).getPakage());
         merge(stringWriter);
         return writer;
     }

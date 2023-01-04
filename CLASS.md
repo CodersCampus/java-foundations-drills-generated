@@ -29,404 +29,429 @@ You got this. It's all in your muscle memory.
 
 
 
-## Make new project named `CutProject`
- - Then make a new package `com.coderscampus.cut.main`
- - Then - in that package, create a class named `CutApp`, with a static main method
- - Then - in the body of the main method in the class named `CutApp` write `System.out.println("Hello award");`
- - Then run the program and confirm that it writes `Hello award` into the console
+## Make new project named `RubProject`
+ - Then make a new package `com.coderscampus.rub.main`
+ - Then - in that package, create a class named `RubApp`, with a static main method
+ - Then - in the body of the main method in the class named `RubApp` write `System.out.println("Hello memory");`
+ - Then run the program and confirm that it writes `Hello memory` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.cut.util`
- - Then - in that package, create a class named `Chair`, with a an empty body - no methods
- - Then - in the body of that class named `Chair` create a `union` method that returns void and takes a String for an arg, and name that incoming argument `status`
- - In the body of that method named `union`, write `System.out.println("Hello again there " + status);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Chair` class assigned to that variable, and use the variable representing that class to call the `union` method that you just wrote, passing in "heavy" as the argument.
- - Then run the program and confirm that it writes `Hello again there heavy` into the console
+ - Make a new package `com.coderscampus.rub.util`
+ - Then - in that package, create a class named `Use`, with a an empty body - no methods
+ - Then - in the body of that class named `Use` create a `mobile` method that returns void and takes a String for an arg, and name that incoming argument `concentrate`. It must have public access modifier.
+ - In the body of that method named `mobile`, write `System.out.println("Hello again there " + concentrate);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Use` class assigned to that variable, and use the variable representing that class to call the `mobile` method that you just wrote, passing in "tomorrow" as the argument.
+ - Then run the program and confirm that it writes `Hello again there tomorrow` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `RushProject`
- - Then make a new package `com.coderscampus.rush.main`
- - Then - in that package, create a class named `RushLauncher`, with a static main method
- - Then - in the body of the main method in the class named `RushLauncher` write `System.out.println("Hello lesson");`
- - Then run the program and confirm that it writes `Hello lesson` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.rush.util`
- - Then - in that package, create a class named `Owner`, with a an empty body - no methods
- - Then - in the body of that class named `Owner` create a `resolution` method that returns void and takes a String for an arg, and name that incoming argument `routine`
- - In the body of that method named `resolution`, write `System.out.println("Hello again there " + routine);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Owner` class assigned to that variable, and use the variable representing that class to call the `resolution` method that you just wrote, passing in "restaurant" as the argument.
- - Then run the program and confirm that it writes `Hello again there restaurant` into the console
-
-
-## Make new project named `LinkProject`
- - Then make a new package `com.coderscampus.link.main`
- - Then - in that package, create a class named `LinkApp`, with a static main method
- - Then - in the body of the main method in the class named `LinkApp` write `System.out.println("Hello golf");`
- - Then run the program and confirm that it writes `Hello golf` into the console
+## Make new project named `EmergencyProject`
+ - Then make a new package `com.coderscampus.emergency.main`
+ - Then - in that package, create a class named `EmergencyApp`, with a static main method
+ - Then - in the body of the main method in the class named `EmergencyApp` write `System.out.println("Hello internal");`
+ - Then run the program and confirm that it writes `Hello internal` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.link.util`
- - Then - in that package, create a class named `Tower`, with a an empty body - no methods
- - Then - in the body of that class named `Tower` create a `abroad` method that returns void and takes a String for an arg, and name that incoming argument `life`
- - In the body of that method named `abroad`, write `System.out.println("Hello again there " + life);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Tower` class assigned to that variable, and use the variable representing that class to call the `abroad` method that you just wrote, passing in "debate" as the argument.
- - Then run the program and confirm that it writes `Hello again there debate` into the console
+ - Make a new package `com.coderscampus.emergency.util`
+ - Then - in that package, create a class named `Author`, with a an empty body - no methods
+ - Then - in the body of that class named `Author` create a `travel` method that returns void and takes a String for an arg, and name that incoming argument `grandfather`. It must have public access modifier.
+ - In the body of that method named `travel`, write `System.out.println("Hello again there " + grandfather);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Author` class assigned to that variable, and use the variable representing that class to call the `travel` method that you just wrote, passing in "holiday" as the argument.
+ - Then run the program and confirm that it writes `Hello again there holiday` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `GatherProject`
- - Then make a new package `com.coderscampus.gather.main`
- - Then - in that package, create a class named `GatherApp`, with a static main method
- - Then - in the body of the main method in the class named `GatherApp` write `System.out.println("Hello nurse");`
- - Then run the program and confirm that it writes `Hello nurse` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.gather.util`
- - Then - in that package, create a class named `Red`, with a an empty body - no methods
- - Then - in the body of that class named `Red` create a `punch` method that returns void and takes a String for an arg, and name that incoming argument `address`
- - In the body of that method named `punch`, write `System.out.println("Hello again there " + address);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Red` class assigned to that variable, and use the variable representing that class to call the `punch` method that you just wrote, passing in "kid" as the argument.
- - Then run the program and confirm that it writes `Hello again there kid` into the console
-
-
-## Make new project named `CurrencyProject`
- - Then make a new package `com.coderscampus.currency.main`
- - Then - in that package, create a class named `CurrencyApp`, with a static main method
- - Then - in the body of the main method in the class named `CurrencyApp` write `System.out.println("Hello age");`
- - Then run the program and confirm that it writes `Hello age` into the console
+## Make new project named `SplitProject`
+ - Then make a new package `com.coderscampus.split.main`
+ - Then - in that package, create a class named `SplitMain`, with a static main method
+ - Then - in the body of the main method in the class named `SplitMain` write `System.out.println("Hello offer");`
+ - Then run the program and confirm that it writes `Hello offer` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.currency.util`
- - Then - in that package, create a class named `Parent`, with a an empty body - no methods
- - Then - in the body of that class named `Parent` create a `team` method that returns void and takes a String for an arg, and name that incoming argument `weird`
- - In the body of that method named `team`, write `System.out.println("Hello again there " + weird);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Parent` class assigned to that variable, and use the variable representing that class to call the `team` method that you just wrote, passing in "finance" as the argument.
- - Then run the program and confirm that it writes `Hello again there finance` into the console
+ - Make a new package `com.coderscampus.split.util`
+ - Then - in that package, create a class named `Demand`, with a an empty body - no methods
+ - Then - in the body of that class named `Demand` create a `woman` method that returns void and takes a String for an arg, and name that incoming argument `road`. It must have public access modifier.
+ - In the body of that method named `woman`, write `System.out.println("Hello again there " + road);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Demand` class assigned to that variable, and use the variable representing that class to call the `woman` method that you just wrote, passing in "height" as the argument.
+ - Then run the program and confirm that it writes `Hello again there height` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `PresentProject`
- - Then make a new package `com.coderscampus.present.main`
- - Then - in that package, create a class named `PresentApp`, with a static main method
- - Then - in the body of the main method in the class named `PresentApp` write `System.out.println("Hello unique");`
- - Then run the program and confirm that it writes `Hello unique` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.present.util`
- - Then - in that package, create a class named `Sail`, with a an empty body - no methods
- - Then - in the body of that class named `Sail` create a `break` method that returns void and takes a String for an arg, and name that incoming argument `agreement`
- - In the body of that method named `break`, write `System.out.println("Hello again there " + agreement);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Sail` class assigned to that variable, and use the variable representing that class to call the `break` method that you just wrote, passing in "salt" as the argument.
- - Then run the program and confirm that it writes `Hello again there salt` into the console
-
-
-## Make new project named `PeaceProject`
- - Then make a new package `com.coderscampus.peace.main`
- - Then - in that package, create a class named `PeaceLauncher`, with a static main method
- - Then - in the body of the main method in the class named `PeaceLauncher` write `System.out.println("Hello relationship");`
- - Then run the program and confirm that it writes `Hello relationship` into the console
+## Make new project named `MirrorProject`
+ - Then make a new package `com.coderscampus.mirror.main`
+ - Then - in that package, create a class named `MirrorLauncher`, with a static main method
+ - Then - in the body of the main method in the class named `MirrorLauncher` write `System.out.println("Hello system");`
+ - Then run the program and confirm that it writes `Hello system` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.peace.util`
- - Then - in that package, create a class named `Safety`, with a an empty body - no methods
- - Then - in the body of that class named `Safety` create a `reason` method that returns void and takes a String for an arg, and name that incoming argument `strength`
- - In the body of that method named `reason`, write `System.out.println("Hello again there " + strength);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Safety` class assigned to that variable, and use the variable representing that class to call the `reason` method that you just wrote, passing in "hide" as the argument.
- - Then run the program and confirm that it writes `Hello again there hide` into the console
+ - Make a new package `com.coderscampus.mirror.util`
+ - Then - in that package, create a class named `Payment`, with a an empty body - no methods
+ - Then - in the body of that class named `Payment` create a `bonus` method that returns void and takes a String for an arg, and name that incoming argument `road`. It must have public access modifier.
+ - In the body of that method named `bonus`, write `System.out.println("Hello again there " + road);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Payment` class assigned to that variable, and use the variable representing that class to call the `bonus` method that you just wrote, passing in "mom" as the argument.
+ - Then run the program and confirm that it writes `Hello again there mom` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `ExpressionProject`
- - Then make a new package `com.coderscampus.expression.main`
- - Then - in that package, create a class named `ExpressionApp`, with a static main method
- - Then - in the body of the main method in the class named `ExpressionApp` write `System.out.println("Hello tongue");`
- - Then run the program and confirm that it writes `Hello tongue` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.expression.util`
- - Then - in that package, create a class named `Independent`, with a an empty body - no methods
- - Then - in the body of that class named `Independent` create a `satisfaction` method that returns void and takes a String for an arg, and name that incoming argument `storage`
- - In the body of that method named `satisfaction`, write `System.out.println("Hello again there " + storage);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Independent` class assigned to that variable, and use the variable representing that class to call the `satisfaction` method that you just wrote, passing in "entrance" as the argument.
- - Then run the program and confirm that it writes `Hello again there entrance` into the console
-
-
-## Make new project named `BurnProject`
- - Then make a new package `com.coderscampus.burn.main`
- - Then - in that package, create a class named `BurnApp`, with a static main method
- - Then - in the body of the main method in the class named `BurnApp` write `System.out.println("Hello title");`
- - Then run the program and confirm that it writes `Hello title` into the console
+## Make new project named `InjuryProject`
+ - Then make a new package `com.coderscampus.injury.main`
+ - Then - in that package, create a class named `InjuryLauncher`, with a static main method
+ - Then - in the body of the main method in the class named `InjuryLauncher` write `System.out.println("Hello web");`
+ - Then run the program and confirm that it writes `Hello web` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.burn.util`
- - Then - in that package, create a class named `Exercise`, with a an empty body - no methods
- - Then - in the body of that class named `Exercise` create a `youth` method that returns void and takes a String for an arg, and name that incoming argument `tough`
- - In the body of that method named `youth`, write `System.out.println("Hello again there " + tough);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Exercise` class assigned to that variable, and use the variable representing that class to call the `youth` method that you just wrote, passing in "sleep" as the argument.
- - Then run the program and confirm that it writes `Hello again there sleep` into the console
+ - Make a new package `com.coderscampus.injury.util`
+ - Then - in that package, create a class named `Investment`, with a an empty body - no methods
+ - Then - in the body of that class named `Investment` create a `total` method that returns void and takes a String for an arg, and name that incoming argument `single`. It must have public access modifier.
+ - In the body of that method named `total`, write `System.out.println("Hello again there " + single);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Investment` class assigned to that variable, and use the variable representing that class to call the `total` method that you just wrote, passing in "shoe" as the argument.
+ - Then run the program and confirm that it writes `Hello again there shoe` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `SinkProject`
- - Then make a new package `com.coderscampus.sink.main`
- - Then - in that package, create a class named `SinkMain`, with a static main method
- - Then - in the body of the main method in the class named `SinkMain` write `System.out.println("Hello step");`
- - Then run the program and confirm that it writes `Hello step` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.sink.util`
- - Then - in that package, create a class named `High`, with a an empty body - no methods
- - Then - in the body of that class named `High` create a `touch` method that returns void and takes a String for an arg, and name that incoming argument `hide`
- - In the body of that method named `touch`, write `System.out.println("Hello again there " + hide);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `High` class assigned to that variable, and use the variable representing that class to call the `touch` method that you just wrote, passing in "cost" as the argument.
- - Then run the program and confirm that it writes `Hello again there cost` into the console
-
-
-## Make new project named `BreakfastProject`
- - Then make a new package `com.coderscampus.breakfast.main`
- - Then - in that package, create a class named `BreakfastApp`, with a static main method
- - Then - in the body of the main method in the class named `BreakfastApp` write `System.out.println("Hello grandfather");`
- - Then run the program and confirm that it writes `Hello grandfather` into the console
+## Make new project named `WarProject`
+ - Then make a new package `com.coderscampus.war.main`
+ - Then - in that package, create a class named `WarApp`, with a static main method
+ - Then - in the body of the main method in the class named `WarApp` write `System.out.println("Hello middle");`
+ - Then run the program and confirm that it writes `Hello middle` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.breakfast.util`
- - Then - in that package, create a class named `Quality`, with a an empty body - no methods
- - Then - in the body of that class named `Quality` create a `cancer` method that returns void and takes a String for an arg, and name that incoming argument `departure`
- - In the body of that method named `cancer`, write `System.out.println("Hello again there " + departure);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Quality` class assigned to that variable, and use the variable representing that class to call the `cancer` method that you just wrote, passing in "end" as the argument.
- - Then run the program and confirm that it writes `Hello again there end` into the console
+ - Make a new package `com.coderscampus.war.util`
+ - Then - in that package, create a class named `Punch`, with a an empty body - no methods
+ - Then - in the body of that class named `Punch` create a `attempt` method that returns void and takes a String for an arg, and name that incoming argument `pause`. It must have public access modifier.
+ - In the body of that method named `attempt`, write `System.out.println("Hello again there " + pause);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Punch` class assigned to that variable, and use the variable representing that class to call the `attempt` method that you just wrote, passing in "salary" as the argument.
+ - Then run the program and confirm that it writes `Hello again there salary` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `OfficeProject`
- - Then make a new package `com.coderscampus.office.main`
- - Then - in that package, create a class named `OfficeLauncher`, with a static main method
- - Then - in the body of the main method in the class named `OfficeLauncher` write `System.out.println("Hello mail");`
- - Then run the program and confirm that it writes `Hello mail` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.office.util`
- - Then - in that package, create a class named `Recipe`, with a an empty body - no methods
- - Then - in the body of that class named `Recipe` create a `year` method that returns void and takes a String for an arg, and name that incoming argument `web`
- - In the body of that method named `year`, write `System.out.println("Hello again there " + web);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Recipe` class assigned to that variable, and use the variable representing that class to call the `year` method that you just wrote, passing in "criticism" as the argument.
- - Then run the program and confirm that it writes `Hello again there criticism` into the console
-
-
-## Make new project named `IllegalProject`
- - Then make a new package `com.coderscampus.illegal.main`
- - Then - in that package, create a class named `IllegalApp`, with a static main method
- - Then - in the body of the main method in the class named `IllegalApp` write `System.out.println("Hello philosophy");`
- - Then run the program and confirm that it writes `Hello philosophy` into the console
+## Make new project named `StrokeProject`
+ - Then make a new package `com.coderscampus.stroke.main`
+ - Then - in that package, create a class named `StrokeMain`, with a static main method
+ - Then - in the body of the main method in the class named `StrokeMain` write `System.out.println("Hello tooth");`
+ - Then run the program and confirm that it writes `Hello tooth` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.illegal.util`
- - Then - in that package, create a class named `Sock`, with a an empty body - no methods
- - Then - in the body of that class named `Sock` create a `current` method that returns void and takes a String for an arg, and name that incoming argument `breath`
- - In the body of that method named `current`, write `System.out.println("Hello again there " + breath);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Sock` class assigned to that variable, and use the variable representing that class to call the `current` method that you just wrote, passing in "cat" as the argument.
- - Then run the program and confirm that it writes `Hello again there cat` into the console
+ - Make a new package `com.coderscampus.stroke.util`
+ - Then - in that package, create a class named `Inspector`, with a an empty body - no methods
+ - Then - in the body of that class named `Inspector` create a `perception` method that returns void and takes a String for an arg, and name that incoming argument `work`. It must have public access modifier.
+ - In the body of that method named `perception`, write `System.out.println("Hello again there " + work);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Inspector` class assigned to that variable, and use the variable representing that class to call the `perception` method that you just wrote, passing in "routine" as the argument.
+ - Then run the program and confirm that it writes `Hello again there routine` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `DiamondProject`
- - Then make a new package `com.coderscampus.diamond.main`
- - Then - in that package, create a class named `DiamondApp`, with a static main method
- - Then - in the body of the main method in the class named `DiamondApp` write `System.out.println("Hello character");`
- - Then run the program and confirm that it writes `Hello character` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.diamond.util`
- - Then - in that package, create a class named `Term`, with a an empty body - no methods
- - Then - in the body of that class named `Term` create a `library` method that returns void and takes a String for an arg, and name that incoming argument `carpet`
- - In the body of that method named `library`, write `System.out.println("Hello again there " + carpet);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Term` class assigned to that variable, and use the variable representing that class to call the `library` method that you just wrote, passing in "image" as the argument.
- - Then run the program and confirm that it writes `Hello again there image` into the console
-
-
-## Make new project named `WeekProject`
- - Then make a new package `com.coderscampus.week.main`
- - Then - in that package, create a class named `WeekApp`, with a static main method
- - Then - in the body of the main method in the class named `WeekApp` write `System.out.println("Hello gate");`
- - Then run the program and confirm that it writes `Hello gate` into the console
+## Make new project named `ScratchProject`
+ - Then make a new package `com.coderscampus.scratch.main`
+ - Then - in that package, create a class named `ScratchApp`, with a static main method
+ - Then - in the body of the main method in the class named `ScratchApp` write `System.out.println("Hello news");`
+ - Then run the program and confirm that it writes `Hello news` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.week.util`
- - Then - in that package, create a class named `Cook`, with a an empty body - no methods
- - Then - in the body of that class named `Cook` create a `penalty` method that returns void and takes a String for an arg, and name that incoming argument `judge`
- - In the body of that method named `penalty`, write `System.out.println("Hello again there " + judge);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Cook` class assigned to that variable, and use the variable representing that class to call the `penalty` method that you just wrote, passing in "associate" as the argument.
- - Then run the program and confirm that it writes `Hello again there associate` into the console
+ - Make a new package `com.coderscampus.scratch.util`
+ - Then - in that package, create a class named `Main`, with a an empty body - no methods
+ - Then - in the body of that class named `Main` create a `pipe` method that returns void and takes a String for an arg, and name that incoming argument `resolution`. It must have public access modifier.
+ - In the body of that method named `pipe`, write `System.out.println("Hello again there " + resolution);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Main` class assigned to that variable, and use the variable representing that class to call the `pipe` method that you just wrote, passing in "suggestion" as the argument.
+ - Then run the program and confirm that it writes `Hello again there suggestion` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `PercentageProject`
- - Then make a new package `com.coderscampus.percentage.main`
- - Then - in that package, create a class named `PercentageApp`, with a static main method
- - Then - in the body of the main method in the class named `PercentageApp` write `System.out.println("Hello analyst");`
- - Then run the program and confirm that it writes `Hello analyst` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.percentage.util`
- - Then - in that package, create a class named `World`, with a an empty body - no methods
- - Then - in the body of that class named `World` create a `office` method that returns void and takes a String for an arg, and name that incoming argument `king`
- - In the body of that method named `office`, write `System.out.println("Hello again there " + king);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `World` class assigned to that variable, and use the variable representing that class to call the `office` method that you just wrote, passing in "phase" as the argument.
- - Then run the program and confirm that it writes `Hello again there phase` into the console
-
-
-## Make new project named `BillProject`
- - Then make a new package `com.coderscampus.bill.main`
- - Then - in that package, create a class named `BillLauncher`, with a static main method
- - Then - in the body of the main method in the class named `BillLauncher` write `System.out.println("Hello priority");`
- - Then run the program and confirm that it writes `Hello priority` into the console
+## Make new project named `DarkProject`
+ - Then make a new package `com.coderscampus.dark.main`
+ - Then - in that package, create a class named `DarkApp`, with a static main method
+ - Then - in the body of the main method in the class named `DarkApp` write `System.out.println("Hello distance");`
+ - Then run the program and confirm that it writes `Hello distance` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.bill.util`
+ - Make a new package `com.coderscampus.dark.util`
+ - Then - in that package, create a class named `Information`, with a an empty body - no methods
+ - Then - in the body of that class named `Information` create a `list` method that returns void and takes a String for an arg, and name that incoming argument `item`. It must have public access modifier.
+ - In the body of that method named `list`, write `System.out.println("Hello again there " + item);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Information` class assigned to that variable, and use the variable representing that class to call the `list` method that you just wrote, passing in "phone" as the argument.
+ - Then run the program and confirm that it writes `Hello again there phone` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `TouristProject`
+ - Then make a new package `com.coderscampus.tourist.main`
+ - Then - in that package, create a class named `TouristLauncher`, with a static main method
+ - Then - in the body of the main method in the class named `TouristLauncher` write `System.out.println("Hello satisfaction");`
+ - Then run the program and confirm that it writes `Hello satisfaction` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.tourist.util`
+ - Then - in that package, create a class named `Package`, with a an empty body - no methods
+ - Then - in the body of that class named `Package` create a `lesson` method that returns void and takes a String for an arg, and name that incoming argument `stress`. It must have public access modifier.
+ - In the body of that method named `lesson`, write `System.out.println("Hello again there " + stress);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Package` class assigned to that variable, and use the variable representing that class to call the `lesson` method that you just wrote, passing in "software" as the argument.
+ - Then run the program and confirm that it writes `Hello again there software` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `CakeProject`
+ - Then make a new package `com.coderscampus.cake.main`
+ - Then - in that package, create a class named `CakeApp`, with a static main method
+ - Then - in the body of the main method in the class named `CakeApp` write `System.out.println("Hello trust");`
+ - Then run the program and confirm that it writes `Hello trust` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.cake.util`
+ - Then - in that package, create a class named `Reserve`, with a an empty body - no methods
+ - Then - in the body of that class named `Reserve` create a `flight` method that returns void and takes a String for an arg, and name that incoming argument `wake`. It must have public access modifier.
+ - In the body of that method named `flight`, write `System.out.println("Hello again there " + wake);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Reserve` class assigned to that variable, and use the variable representing that class to call the `flight` method that you just wrote, passing in "whereas" as the argument.
+ - Then run the program and confirm that it writes `Hello again there whereas` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `ElevatorProject`
+ - Then make a new package `com.coderscampus.elevator.main`
+ - Then - in that package, create a class named `ElevatorApp`, with a static main method
+ - Then - in the body of the main method in the class named `ElevatorApp` write `System.out.println("Hello usual");`
+ - Then run the program and confirm that it writes `Hello usual` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.elevator.util`
+ - Then - in that package, create a class named `Car`, with a an empty body - no methods
+ - Then - in the body of that class named `Car` create a `substance` method that returns void and takes a String for an arg, and name that incoming argument `resolution`. It must have public access modifier.
+ - In the body of that method named `substance`, write `System.out.println("Hello again there " + resolution);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Car` class assigned to that variable, and use the variable representing that class to call the `substance` method that you just wrote, passing in "will" as the argument.
+ - Then run the program and confirm that it writes `Hello again there will` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `BeingProject`
+ - Then make a new package `com.coderscampus.being.main`
+ - Then - in that package, create a class named `BeingApp`, with a static main method
+ - Then - in the body of the main method in the class named `BeingApp` write `System.out.println("Hello preparation");`
+ - Then run the program and confirm that it writes `Hello preparation` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.being.util`
+ - Then - in that package, create a class named `Vacation`, with a an empty body - no methods
+ - Then - in the body of that class named `Vacation` create a `beat` method that returns void and takes a String for an arg, and name that incoming argument `protection`. It must have public access modifier.
+ - In the body of that method named `beat`, write `System.out.println("Hello again there " + protection);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Vacation` class assigned to that variable, and use the variable representing that class to call the `beat` method that you just wrote, passing in "diet" as the argument.
+ - Then run the program and confirm that it writes `Hello again there diet` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `PresenceProject`
+ - Then make a new package `com.coderscampus.presence.main`
+ - Then - in that package, create a class named `PresenceApp`, with a static main method
+ - Then - in the body of the main method in the class named `PresenceApp` write `System.out.println("Hello hell");`
+ - Then run the program and confirm that it writes `Hello hell` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.presence.util`
+ - Then - in that package, create a class named `Cabinet`, with a an empty body - no methods
+ - Then - in the body of that class named `Cabinet` create a `heat` method that returns void and takes a String for an arg, and name that incoming argument `passage`. It must have public access modifier.
+ - In the body of that method named `heat`, write `System.out.println("Hello again there " + passage);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Cabinet` class assigned to that variable, and use the variable representing that class to call the `heat` method that you just wrote, passing in "south" as the argument.
+ - Then run the program and confirm that it writes `Hello again there south` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `LetterProject`
+ - Then make a new package `com.coderscampus.letter.main`
+ - Then - in that package, create a class named `LetterMain`, with a static main method
+ - Then - in the body of the main method in the class named `LetterMain` write `System.out.println("Hello security");`
+ - Then run the program and confirm that it writes `Hello security` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.letter.util`
+ - Then - in that package, create a class named `Volume`, with a an empty body - no methods
+ - Then - in the body of that class named `Volume` create a `benefit` method that returns void and takes a String for an arg, and name that incoming argument `coast`. It must have public access modifier.
+ - In the body of that method named `benefit`, write `System.out.println("Hello again there " + coast);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Volume` class assigned to that variable, and use the variable representing that class to call the `benefit` method that you just wrote, passing in "construction" as the argument.
+ - Then run the program and confirm that it writes `Hello again there construction` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `DepositProject`
+ - Then make a new package `com.coderscampus.deposit.main`
+ - Then - in that package, create a class named `DepositApp`, with a static main method
+ - Then - in the body of the main method in the class named `DepositApp` write `System.out.println("Hello fix");`
+ - Then run the program and confirm that it writes `Hello fix` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.deposit.util`
  - Then - in that package, create a class named `League`, with a an empty body - no methods
- - Then - in the body of that class named `League` create a `growth` method that returns void and takes a String for an arg, and name that incoming argument `break`
- - In the body of that method named `growth`, write `System.out.println("Hello again there " + break);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `League` class assigned to that variable, and use the variable representing that class to call the `growth` method that you just wrote, passing in "front" as the argument.
- - Then run the program and confirm that it writes `Hello again there front` into the console
+ - Then - in the body of that class named `League` create a `mode` method that returns void and takes a String for an arg, and name that incoming argument `resort`. It must have public access modifier.
+ - In the body of that method named `mode`, write `System.out.println("Hello again there " + resort);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `League` class assigned to that variable, and use the variable representing that class to call the `mode` method that you just wrote, passing in "boy" as the argument.
+ - Then run the program and confirm that it writes `Hello again there boy` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `DiseaseProject`
- - Then make a new package `com.coderscampus.disease.main`
- - Then - in that package, create a class named `DiseaseApp`, with a static main method
- - Then - in the body of the main method in the class named `DiseaseApp` write `System.out.println("Hello lunch");`
- - Then run the program and confirm that it writes `Hello lunch` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.disease.util`
- - Then - in that package, create a class named `Sugar`, with a an empty body - no methods
- - Then - in the body of that class named `Sugar` create a `strength` method that returns void and takes a String for an arg, and name that incoming argument `metal`
- - In the body of that method named `strength`, write `System.out.println("Hello again there " + metal);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Sugar` class assigned to that variable, and use the variable representing that class to call the `strength` method that you just wrote, passing in "glass" as the argument.
- - Then run the program and confirm that it writes `Hello again there glass` into the console
-
-
-## Make new project named `PlentyProject`
- - Then make a new package `com.coderscampus.plenty.main`
- - Then - in that package, create a class named `PlentyApp`, with a static main method
- - Then - in the body of the main method in the class named `PlentyApp` write `System.out.println("Hello wind");`
- - Then run the program and confirm that it writes `Hello wind` into the console
+## Make new project named `QuarterProject`
+ - Then make a new package `com.coderscampus.quarter.main`
+ - Then - in that package, create a class named `QuarterApp`, with a static main method
+ - Then - in the body of the main method in the class named `QuarterApp` write `System.out.println("Hello demand");`
+ - Then run the program and confirm that it writes `Hello demand` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.plenty.util`
- - Then - in that package, create a class named `Refrigerator`, with a an empty body - no methods
- - Then - in the body of that class named `Refrigerator` create a `recommendation` method that returns void and takes a String for an arg, and name that incoming argument `ring`
- - In the body of that method named `recommendation`, write `System.out.println("Hello again there " + ring);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Refrigerator` class assigned to that variable, and use the variable representing that class to call the `recommendation` method that you just wrote, passing in "perspective" as the argument.
- - Then run the program and confirm that it writes `Hello again there perspective` into the console
+ - Make a new package `com.coderscampus.quarter.util`
+ - Then - in that package, create a class named `Cat`, with a an empty body - no methods
+ - Then - in the body of that class named `Cat` create a `passenger` method that returns void and takes a String for an arg, and name that incoming argument `movie`. It must have public access modifier.
+ - In the body of that method named `passenger`, write `System.out.println("Hello again there " + movie);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Cat` class assigned to that variable, and use the variable representing that class to call the `passenger` method that you just wrote, passing in "prior" as the argument.
+ - Then run the program and confirm that it writes `Hello again there prior` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `BeatProject`
- - Then make a new package `com.coderscampus.beat.main`
- - Then - in that package, create a class named `BeatApp`, with a static main method
- - Then - in the body of the main method in the class named `BeatApp` write `System.out.println("Hello swim");`
- - Then run the program and confirm that it writes `Hello swim` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.beat.util`
- - Then - in that package, create a class named `Proof`, with a an empty body - no methods
- - Then - in the body of that class named `Proof` create a `young` method that returns void and takes a String for an arg, and name that incoming argument `document`
- - In the body of that method named `young`, write `System.out.println("Hello again there " + document);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Proof` class assigned to that variable, and use the variable representing that class to call the `young` method that you just wrote, passing in "national" as the argument.
- - Then run the program and confirm that it writes `Hello again there national` into the console
-
-
-## Make new project named `HourProject`
- - Then make a new package `com.coderscampus.hour.main`
- - Then - in that package, create a class named `HourApp`, with a static main method
- - Then - in the body of the main method in the class named `HourApp` write `System.out.println("Hello future");`
- - Then run the program and confirm that it writes `Hello future` into the console
+## Make new project named `DoctorProject`
+ - Then make a new package `com.coderscampus.doctor.main`
+ - Then - in that package, create a class named `DoctorApp`, with a static main method
+ - Then - in the body of the main method in the class named `DoctorApp` write `System.out.println("Hello passion");`
+ - Then run the program and confirm that it writes `Hello passion` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.hour.util`
- - Then - in that package, create a class named `Tank`, with a an empty body - no methods
- - Then - in the body of that class named `Tank` create a `brown` method that returns void and takes a String for an arg, and name that incoming argument `charity`
- - In the body of that method named `brown`, write `System.out.println("Hello again there " + charity);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Tank` class assigned to that variable, and use the variable representing that class to call the `brown` method that you just wrote, passing in "valuable" as the argument.
- - Then run the program and confirm that it writes `Hello again there valuable` into the console
+ - Make a new package `com.coderscampus.doctor.util`
+ - Then - in that package, create a class named `Kid`, with a an empty body - no methods
+ - Then - in the body of that class named `Kid` create a `bake` method that returns void and takes a String for an arg, and name that incoming argument `diet`. It must have public access modifier.
+ - In the body of that method named `bake`, write `System.out.println("Hello again there " + diet);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Kid` class assigned to that variable, and use the variable representing that class to call the `bake` method that you just wrote, passing in "common" as the argument.
+ - Then run the program and confirm that it writes `Hello again there common` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `PromiseProject`
- - Then make a new package `com.coderscampus.promise.main`
- - Then - in that package, create a class named `PromiseApp`, with a static main method
- - Then - in the body of the main method in the class named `PromiseApp` write `System.out.println("Hello weakness");`
- - Then run the program and confirm that it writes `Hello weakness` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.promise.util`
- - Then - in that package, create a class named `Milk`, with a an empty body - no methods
- - Then - in the body of that class named `Milk` create a `difference` method that returns void and takes a String for an arg, and name that incoming argument `hate`
- - In the body of that method named `difference`, write `System.out.println("Hello again there " + hate);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Milk` class assigned to that variable, and use the variable representing that class to call the `difference` method that you just wrote, passing in "face" as the argument.
- - Then run the program and confirm that it writes `Hello again there face` into the console
-
-
-## Make new project named `HandProject`
- - Then make a new package `com.coderscampus.hand.main`
- - Then - in that package, create a class named `HandApp`, with a static main method
- - Then - in the body of the main method in the class named `HandApp` write `System.out.println("Hello permit");`
- - Then run the program and confirm that it writes `Hello permit` into the console
+## Make new project named `ConfidenceProject`
+ - Then make a new package `com.coderscampus.confidence.main`
+ - Then - in that package, create a class named `ConfidenceApp`, with a static main method
+ - Then - in the body of the main method in the class named `ConfidenceApp` write `System.out.println("Hello rest");`
+ - Then run the program and confirm that it writes `Hello rest` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.hand.util`
- - Then - in that package, create a class named `Load`, with a an empty body - no methods
- - Then - in the body of that class named `Load` create a `give` method that returns void and takes a String for an arg, and name that incoming argument `signature`
- - In the body of that method named `give`, write `System.out.println("Hello again there " + signature);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Load` class assigned to that variable, and use the variable representing that class to call the `give` method that you just wrote, passing in "sand" as the argument.
- - Then run the program and confirm that it writes `Hello again there sand` into the console
+ - Make a new package `com.coderscampus.confidence.util`
+ - Then - in that package, create a class named `Agent`, with a an empty body - no methods
+ - Then - in the body of that class named `Agent` create a `cookie` method that returns void and takes a String for an arg, and name that incoming argument `time`. It must have public access modifier.
+ - In the body of that method named `cookie`, write `System.out.println("Hello again there " + time);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Agent` class assigned to that variable, and use the variable representing that class to call the `cookie` method that you just wrote, passing in "son" as the argument.
+ - Then run the program and confirm that it writes `Hello again there son` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
-## Make new project named `QuestionProject`
- - Then make a new package `com.coderscampus.question.main`
- - Then - in that package, create a class named `QuestionApp`, with a static main method
- - Then - in the body of the main method in the class named `QuestionApp` write `System.out.println("Hello incident");`
- - Then run the program and confirm that it writes `Hello incident` into the console
-
-#### Now, the second class ...
- - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.question.util`
- - Then - in that package, create a class named `Village`, with a an empty body - no methods
- - Then - in the body of that class named `Village` create a `jump` method that returns void and takes a String for an arg, and name that incoming argument `fall`
- - In the body of that method named `jump`, write `System.out.println("Hello again there " + fall);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Village` class assigned to that variable, and use the variable representing that class to call the `jump` method that you just wrote, passing in "queen" as the argument.
- - Then run the program and confirm that it writes `Hello again there queen` into the console
-
-
-## Make new project named `LawProject`
- - Then make a new package `com.coderscampus.law.main`
- - Then - in that package, create a class named `LawApp`, with a static main method
- - Then - in the body of the main method in the class named `LawApp` write `System.out.println("Hello data");`
- - Then run the program and confirm that it writes `Hello data` into the console
+## Make new project named `TrainProject`
+ - Then make a new package `com.coderscampus.train.main`
+ - Then - in that package, create a class named `TrainApp`, with a static main method
+ - Then - in the body of the main method in the class named `TrainApp` write `System.out.println("Hello criticism");`
+ - Then run the program and confirm that it writes `Hello criticism` into the console
 
 #### Now, the second class ...
  - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
- - Make a new package `com.coderscampus.law.util`
- - Then - in that package, create a class named `Guest`, with a an empty body - no methods
- - Then - in the body of that class named `Guest` create a `sympathy` method that returns void and takes a String for an arg, and name that incoming argument `professional`
- - In the body of that method named `sympathy`, write `System.out.println("Hello again there " + professional);`
- - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Guest` class assigned to that variable, and use the variable representing that class to call the `sympathy` method that you just wrote, passing in "funeral" as the argument.
- - Then run the program and confirm that it writes `Hello again there funeral` into the console
+ - Make a new package `com.coderscampus.train.util`
+ - Then - in that package, create a class named `Fill`, with a an empty body - no methods
+ - Then - in the body of that class named `Fill` create a `path` method that returns void and takes a String for an arg, and name that incoming argument `deep`. It must have public access modifier.
+ - In the body of that method named `path`, write `System.out.println("Hello again there " + deep);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Fill` class assigned to that variable, and use the variable representing that class to call the `path` method that you just wrote, passing in "possession" as the argument.
+ - Then run the program and confirm that it writes `Hello again there possession` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `DigProject`
+ - Then make a new package `com.coderscampus.dig.main`
+ - Then - in that package, create a class named `DigApp`, with a static main method
+ - Then - in the body of the main method in the class named `DigApp` write `System.out.println("Hello grab");`
+ - Then run the program and confirm that it writes `Hello grab` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.dig.util`
+ - Then - in that package, create a class named `Design`, with a an empty body - no methods
+ - Then - in the body of that class named `Design` create a `shoulder` method that returns void and takes a String for an arg, and name that incoming argument `charge`. It must have public access modifier.
+ - In the body of that method named `shoulder`, write `System.out.println("Hello again there " + charge);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Design` class assigned to that variable, and use the variable representing that class to call the `shoulder` method that you just wrote, passing in "independence" as the argument.
+ - Then run the program and confirm that it writes `Hello again there independence` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `ResistProject`
+ - Then make a new package `com.coderscampus.resist.main`
+ - Then - in that package, create a class named `ResistApp`, with a static main method
+ - Then - in the body of the main method in the class named `ResistApp` write `System.out.println("Hello resident");`
+ - Then run the program and confirm that it writes `Hello resident` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.resist.util`
+ - Then - in that package, create a class named `Doctor`, with a an empty body - no methods
+ - Then - in the body of that class named `Doctor` create a `attitude` method that returns void and takes a String for an arg, and name that incoming argument `reputation`. It must have public access modifier.
+ - In the body of that method named `attitude`, write `System.out.println("Hello again there " + reputation);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Doctor` class assigned to that variable, and use the variable representing that class to call the `attitude` method that you just wrote, passing in "pattern" as the argument.
+ - Then run the program and confirm that it writes `Hello again there pattern` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `DegreeProject`
+ - Then make a new package `com.coderscampus.degree.main`
+ - Then - in that package, create a class named `DegreeApp`, with a static main method
+ - Then - in the body of the main method in the class named `DegreeApp` write `System.out.println("Hello end");`
+ - Then run the program and confirm that it writes `Hello end` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.degree.util`
+ - Then - in that package, create a class named `Claim`, with a an empty body - no methods
+ - Then - in the body of that class named `Claim` create a `dream` method that returns void and takes a String for an arg, and name that incoming argument `library`. It must have public access modifier.
+ - In the body of that method named `dream`, write `System.out.println("Hello again there " + library);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Claim` class assigned to that variable, and use the variable representing that class to call the `dream` method that you just wrote, passing in "blame" as the argument.
+ - Then run the program and confirm that it writes `Hello again there blame` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `SpiritProject`
+ - Then make a new package `com.coderscampus.spirit.main`
+ - Then - in that package, create a class named `SpiritApp`, with a static main method
+ - Then - in the body of the main method in the class named `SpiritApp` write `System.out.println("Hello field");`
+ - Then run the program and confirm that it writes `Hello field` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.spirit.util`
+ - Then - in that package, create a class named `Idea`, with a an empty body - no methods
+ - Then - in the body of that class named `Idea` create a `individual` method that returns void and takes a String for an arg, and name that incoming argument `leg`. It must have public access modifier.
+ - In the body of that method named `individual`, write `System.out.println("Hello again there " + leg);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Idea` class assigned to that variable, and use the variable representing that class to call the `individual` method that you just wrote, passing in "method" as the argument.
+ - Then run the program and confirm that it writes `Hello again there method` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
+
+
+## Make new project named `MortgageProject`
+ - Then make a new package `com.coderscampus.mortgage.main`
+ - Then - in that package, create a class named `MortgageApp`, with a static main method
+ - Then - in the body of the main method in the class named `MortgageApp` write `System.out.println("Hello confusion");`
+ - Then run the program and confirm that it writes `Hello confusion` into the console
+
+#### Now, the second class ...
+ - These instructions get a little bit word-salad-ish, but you have to learn these terms anyway ... so here goes.
+ - Make a new package `com.coderscampus.mortgage.util`
+ - Then - in that package, create a class named `Guarantee`, with a an empty body - no methods
+ - Then - in the body of that class named `Guarantee` create a `due` method that returns void and takes a String for an arg, and name that incoming argument `estimate`. It must have public access modifier.
+ - In the body of that method named `due`, write `System.out.println("Hello again there " + estimate);`
+ - Next - in the body of the main method above, declare a variable for, and then instantiate a new `Guarantee` class assigned to that variable, and use the variable representing that class to call the `due` method that you just wrote, passing in "pin" as the argument.
+ - Then run the program and confirm that it writes `Hello again there pin` into the console
+ (So far the fastest timed execution of this sequence is 3 minutes, 17 seconds.)
 
 
 If you do the above drills without much effort, you are ready to use this process for all your subsequent drills.
