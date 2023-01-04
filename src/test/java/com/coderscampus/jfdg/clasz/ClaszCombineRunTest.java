@@ -11,3 +11,4 @@ class ClaszCombineRunTest {
         new ClaszCombineRun().go();
     }
 }
+

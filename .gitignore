@@ -4,3 +4,4 @@
 .settings
 main.iml
 /target
+.DS_Store
