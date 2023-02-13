@@ -1,4 +1,13 @@
-# Projects for Instantiating a Class, a Method, and Calling the Method
+# THIS HAS BEEN DEPRECATED!!!
+
+Please go here instead: [Latest Drills](https://youtu.be/kfkL4Ro5v5I)
+
+<hr>
+<hr>
+<hr>
+<hr>
+
+## Projects for Instantiating a Class, a Method, and Calling the Method
 
 WTH? Why do I even care about classes, methods, and how to create and consume them?
 
