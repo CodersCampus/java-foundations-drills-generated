@@ -1,3 +1,12 @@
+# THIS HAS BEEN DEPRECATED!!!
+
+Please go here instead: [Latest Drills](https://youtu.be/kfkL4Ro5v5I)
+
+<hr>
+<hr>
+<hr>
+<hr>
+
 # Projects + Main Methods + Static Method Exit
 
 Learning java foundations requires it's own setup, which is different from the full stack world in some respects.

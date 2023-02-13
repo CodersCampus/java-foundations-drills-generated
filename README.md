@@ -1,11 +1,5 @@
-# java-foundations-drills-generated
+# THIS HAS BEEN DEPRECATED!!!
 
-These are preliminary and handed out with verbal instructions until enough feedback is received to make them more final.
-
-Start here:
-[Project practice](PROJECT.md)
-
-Then, when you are done with that for a while, go here:
-[Classes practice](CLASS.md)
+Please go here instead: [Latest Drills](https://youtu.be/kfkL4Ro5v5I)
 
 
